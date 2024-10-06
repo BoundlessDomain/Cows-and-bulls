@@ -1,0 +1,24 @@
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBullsWinForms\bin\Debug\CowsAndBullsWinForms.exe.config
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBullsWinForms\bin\Debug\CowsAndBullsWinForms.exe
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBullsWinForms\bin\Debug\CowsAndBullsWinForms.pdb
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.csprojResolveAssemblyReference.cache
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.frmCowsAndBullsGame.resources
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.Properties.Resources.resources
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.csproj.GenerateResource.Cache
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.exe
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.pdb
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls - Done\CowsAndBullsWinForms\bin\Debug\CowsAndBullsWinForms.exe.config
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls - Done\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.exe
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls - Done\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.pdb
+\\strs\dfs\Devs\Data\17NYUBo\Projects\8. CowsAndBulls - Done\CowsAndBullsWinForms\bin\Debug\CowsAndBullsWinForms.exe.config
+\\strs\dfs\Devs\Data\17NYUBo\Projects\8. CowsAndBulls - Done\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.exe
+\\strs\dfs\Devs\Data\17NYUBo\Projects\8. CowsAndBulls - Done\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.pdb
+\\strs\dfs\Devs\Data\17NYUBo\Projects\8. CowsAndBulls - Done\CowsAndBullsWinForms\bin\Debug\CowsAndBullsWinForms.exe
+\\strs\dfs\Devs\Data\17NYUBo\Projects\8. CowsAndBulls - Done\CowsAndBullsWinForms\bin\Debug\CowsAndBullsWinForms.pdb
+\\strs\dfs\Devs\Data\17NYUBo\Projects\8. CowsAndBulls - Done\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.csprojResolveAssemblyReference.cache
+\\strs\dfs\Devs\Data\17NYUBo\Projects\8. CowsAndBulls - Done\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.frmCowsAndBullsGame.resources
+\\strs\dfs\Devs\Data\17NYUBo\Projects\8. CowsAndBulls - Done\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.Properties.Resources.resources
+\\strs\dfs\Devs\Data\17NYUBo\Projects\8. CowsAndBulls - Done\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.csproj.GenerateResource.Cache
+\\strs\dfs\Devs\Data\17NYUBo\Projects\7. CowsAndBulls - Done\CowsAndBullsWinForms\bin\Debug\CowsAndBullsWinForms.exe.config
+\\strs\dfs\Devs\Data\17NYUBo\Projects\7. CowsAndBulls - Done\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.exe
+\\strs\dfs\Devs\Data\17NYUBo\Projects\7. CowsAndBulls - Done\CowsAndBullsWinForms\obj\Debug\CowsAndBullsWinForms.pdb

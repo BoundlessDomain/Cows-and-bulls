@@ -1,0 +1,9 @@
+\\strs\dfs\s2017\17nyubo\visual studio 2015\Projects\CowsAndBulls\CowsAndBulls\bin\Debug\CowsAndBulls.exe.config
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\7. CowsAndBulls\CowsAndBulls\bin\Debug\CowsAndBulls.exe.config
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\7.CowsAndBulls\CowsAndBulls\bin\Debug\CowsAndBulls.exe.config
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBulls\bin\Debug\CowsAndBulls.exe.config
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBulls\bin\Debug\CowsAndBulls.exe
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBulls\bin\Debug\CowsAndBulls.pdb
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBulls\obj\Debug\CowsAndBulls.csprojResolveAssemblyReference.cache
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBulls\obj\Debug\CowsAndBulls.exe
+\\strs\dfs\S2017\17NYUBo\Visual Studio 2015\Projects\8. CowsAndBulls\CowsAndBulls\obj\Debug\CowsAndBulls.pdb
